@@ -94,3 +94,18 @@ while running:
 # Quit pygame
 pygame.quit()
 sys.exit()
+
+
+
+# How to Run the Game
+# Install pygame if you don’t already have it:
+# bash
+
+#" pip install pygame"
+
+
+
+# Run the game:
+# bash
+
+# "python catch_the_objects.py"
